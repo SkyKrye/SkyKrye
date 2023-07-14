@@ -7,4 +7,4 @@
 - fun fact: you breathe automatically, now you don't
 - also im greatly mentally screwed by evangelion please help me
 
- <img src="images/wallpaper3.png">
+ <img src="images/wallpaper3.png" height=200>
