@@ -1,3 +1,5 @@
+<img src="images/wallpaper3.png" width=500>
+
 ### hi, im skykrye
 (you already know that because why else would you be here if you didnt even know the name of the profile you're on)
 
@@ -7,4 +9,8 @@
 - fun fact: you breathe automatically, now you don't
 - also im greatly mentally screwed by evangelion please help me
 
- <img src="images/wallpaper3.png" width=500>
+ 
+ cool stats for flex:
+ 
+![Stats](https://github-readme-stats.vercel.app/api?username=SkyKrye&show_icons=true&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyKrye&layout=compact&theme=dark)
