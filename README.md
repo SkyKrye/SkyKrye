@@ -7,7 +7,6 @@
 - i’m currently learning python and lua
 - pronouns: im not a 𝖖𝖚𝖊𝖊𝖗 𝖋𝖆𝖌𝖌𝖔𝖙 like 90% of the world so i dont care about pronouns
 - fun fact: you breathe automatically, now you don't
-- also im greatly mentally screwed by evangelion please help me
 
  
  cool stats for flex:
