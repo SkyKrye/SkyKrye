@@ -5,7 +5,7 @@
 
 - i’m currently working on <!-- reistem, a mockup filesystem and -->solarsicom, my website, and a little social media thing
 - i’m currently learning python and lua
-- pronouns: im not a 𝖖𝖚𝖊𝖊𝖗 like 90% of the world so i dont care about pronouns
+- pronouns: im not 𝖖𝖚𝖊𝖊𝖗, that's all you need to know
 - fun fact: you breathe automatically, now you don't
 
  
