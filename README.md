@@ -1,4 +1,4 @@
-<img src="images/wallpaper3.png" width=500>
+<!--img src="images/wallpaper3.png" width=500-->
 
 ### hi, im skykrye
 (you already know that because why else would you be here if you didnt even know the name of the profile you're on)
