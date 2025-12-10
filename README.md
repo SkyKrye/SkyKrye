@@ -1,7 +1,7 @@
 <!--img src="images/wallpaper3.png" width=500-->
 
 ### hi, im skykrye
-(you already know that because why else would you be here if you didnt even know the name of the profile you're on)
+(but you already know that)
 
 - i’m currently working on <!-- reistem, a mockup filesystem and -->solarsicom (which is my website and blog, and also has a little social media on it) and also a linux distro (yep, same name)
 - i’m currently learning python and lua
