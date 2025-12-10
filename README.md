@@ -11,5 +11,20 @@
  
  stats:
  
-![Stats](https://github-readme-stats.vercel.app/api?username=SkyKrye&show_icons=true&theme=dark)
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=SkyKrye&show_icons=true&theme=dark)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyKrye&layout=compact&theme=dark)
+
+![Stats](https://github-readme-stats.zcy.dev/api?username=SkyKrye&show_icons=true&theme=dark)
+![Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=SkyKrye&layout=compact&theme=dark)
+-->
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zcy.dev/api?username=SkyKrye&show_icons=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.zcy.dev/api?username=SkyKrye&show_icons=true" />
+    <img alt="Stats" src="https://github-readme-stats.zcy.dev/api?username=SkyKrye&show_icons=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zcy.dev/api/top-langs/?username=SkyKrye&layout=compact&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.zcy.dev/api/top-langs/?username=SkyKrye&layout=compact" />
+    <img alt="Languages" src="https://github-readme-stats.zcy.dev/api/top-langs/?username=SkyKrye&layout=compact&theme=dark" />
+  </picture>
